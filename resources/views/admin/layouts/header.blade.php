@@ -32,7 +32,7 @@
 					        
 					        <div class="dropdown-menu p-0" aria-labelledby="notifications-dropdown-toggle">
 					            <div class="dropdown-menu-header p-3">
-						            <h5 class="dropdown-menu-title mb-0">Notification</h5>
+						            <h5 class="dropdown-menu-title mb-0">Notifications</h5>
 						        </div><!--//dropdown-menu-title-->
 						        <div class="dropdown-menu-content">
 							       <div class="item p-3">
